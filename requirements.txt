@@ -1,0 +1,6 @@
+#Library yang diperlukan
+pandas Version = 2.2.3
+matplotlib Version: 3.10.0
+seaborn Version: 0.13.2
+streamlit Version: 1.41.1
+babel Version: 2.16.0
