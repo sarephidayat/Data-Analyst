@@ -2,7 +2,7 @@
 
 ## Setup Repository
 ```
-git clone https://github.com/sarephidayat/Data-Analyst/edit/main/README.md
+git clone https://github.com/sarephidayat/Data-Analyst.git
 ```
 
 ## Setup Environment - Shell/Terminal
