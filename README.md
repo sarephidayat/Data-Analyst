@@ -15,5 +15,6 @@ pip install -r requirements.txt
 
 ## Run steamlit app
 ```
-streamlit run dashboard.py
+cd dashboard
+streamlit run ProjectAkhir.py
 ```
